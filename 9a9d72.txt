@@ -1,0 +1,4 @@
+TODO List:
+- Implement random script generator
+- Optimize performance
+- Add more randomization
